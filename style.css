@@ -1,0 +1,64 @@
+body{
+background: rgba(22, 22, 219, 0.753);
+font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+    font-family:'Verdana';
+    font-style: inherit;
+    font-size: 22px;
+}
+
+.sectionum{
+background: #c5c7b5;
+border-radius: 10px;
+padding: 15px;
+width: 600px;
+margin: auto;
+box-shadow: 3px 3px 10px rgba(19, 18, 18, 0.404);
+}
+
+.sectiondois{
+    text-align: center;
+    background:rgba(161, 155, 155, 0.404)
+}
+
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
+
+.fotododia{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5%;   
+    width: 450px;
+    height: 270px;
+}
+
+.semana{
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+}
+
+.hora{
+    display:inline;
+}
+
+.data{
+    display:inline;
+}
+
+.agradecimento{
+font-family:'Verdana';
+font-size: 10px;
+font-weight: bold;
+text-align: right;
+}
